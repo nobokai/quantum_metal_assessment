@@ -1,2 +1,11 @@
 # quantum_metal_assessment
-It's basically an assessment test for Quantum Metal
+An assessment test for Job Application towards Company, Quantum Metal
+
+
+Short video attached as POW
+- https://github.com/nobokai/quantum_metal_assessment/assets/54453783/444cb8fb-e818-4e4a-aaec-d91a924545a5
+
+
+
+
+

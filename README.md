@@ -2,7 +2,7 @@
 An assessment test for Job Application towards Company, Quantum Metal
 
 
-Short video attached as POW
+Short video attached as the final outcome
 - https://github.com/nobokai/quantum_metal_assessment/assets/54453783/444cb8fb-e818-4e4a-aaec-d91a924545a5
 
 
